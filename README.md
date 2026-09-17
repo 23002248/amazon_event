@@ -8,13 +8,7 @@ Comprehensive enterprise-grade Test Plan and Manual Test Case repository for the
 
 | File Name | Format | Description |
 | :--- | :--- | :--- |
-| **`Test Plan Document.xlsx`** | Excel Workbook | Complete master workbook containing **`Amazon Testing`** (with dynamic formula KPIs), **`Flipkart Testing`**, and **`Test Plan Template`**. |
-| **`Amazon_Platform_Test_Plan.xlsx`** | Excel Workbook | Standalone spreadsheet dedicated exclusively to the **54 Amazon features** with automated execution summary metrics. |
-| **`Amazon_Test_Plan_and_Test_Cases.xlsx`** | Excel Workbook | Test Plan & Cases formatted in alignment with the Katalon Manual Test Case Template including metadata & traceability. |
-| **`Amazon_Test_Plan_and_Test_Cases.docx`** | Word Document | Formal QA test specification report with executive summary, quality gates, and formatted test tables. |
-| **`Amazon_Test_Plan_and_Test_Cases.md`** | Markdown | Complete test plan and 54-case test suite in GitHub Markdown format for quick browsing. |
-| **`Untitled spreadsheet.xlsx`** | Excel Workbook | Original source event catalog containing the 54 target Amazon feature requirements. |
-| **`WhatsApp Image 2026-09-17 at 10.57.35 AM.jpeg`** | Image | Reference template specification for manual test case structure. |
+| **`Amazon_Platform_Test_Plan.xlsx`** | Excel Workbook | Master spreadsheet dedicated exclusively to the **54 Amazon features** with automated execution summary metrics, formula-driven KPIs, and full test cases. |
 
 ---
 
